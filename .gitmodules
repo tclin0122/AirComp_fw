@@ -7,9 +7,7 @@
 	url = https://github.com/analogdevicesinc/buildroot.git
 [submodule "linux"]
 	path = linux
-	url = https://github.com/analogdevicesinc/linux
-	branch = 2018_R1
+	url = https://github.com/tclin0122/linux.git
 [submodule "hdl"]
 	path = hdl
-	url = https://github.com/analogdevicesinc/hdl
-	branch = hdl_2018_r1
+	url = https://github.com/tclin0122/analogdevice_hdl.git
